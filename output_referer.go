@@ -3,7 +3,7 @@ package sample
 import "fmt"
 
 func SayHello(){
-	fmt.Println("Test 1 ")
+	fmt.Println("Github'tan geliyor mu")
 }
 
 func SayHello2(){
